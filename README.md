@@ -46,9 +46,9 @@
    - Stores should sell less during school holidays. 5. EXPLORATORY DATA ANALYSIS
    - Response Variables
    - Numerical Variables
-   ![numerical_var](img/numerical_var.png)
+   - ![numerical_var](img/numerical_var.png)
    - Categorical Variables
-   ![categorical_var](img/categorical_var.png)
+   - ![categorical_var](img/categorical_var.png)
    - Hypothesis Validation
    - Hypothesis Summary
 6. Multivariate Analysis
@@ -56,7 +56,7 @@
    - Categorical Attributes
 7. MACHINE LEARNING MODELLING
    - Model Performance Comparison
-   ![model_performance_comparison](img/model_performance_comparison.png)
+   - ![model_performance_comparison](img/model_performance_comparison.png)
 
 # **Conclusion & Demonstration**
 ## ERROR TRANSLATION AND INTERPRETATION
